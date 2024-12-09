@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+numpy
+scipy
+sklearn
+pickle
+pandas
+statannotations
+scikit_posthocs
+sys
