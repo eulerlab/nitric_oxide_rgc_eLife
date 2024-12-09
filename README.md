@@ -8,7 +8,7 @@ The repository contains the code to reproduce the analyses.
 ## Code
 
 The code can be found in the `code` folder; it's published under the MIT license. 
-As the `data` folder structure, the `code` folder has two sub-folders.
+The `code` folder has two sub-folders, for the 2P calcium- and Multi-Electrode Array (MEA)-dataset.
 1. **Calcium:**
     - To recreate the analyses and figure panels.
 
