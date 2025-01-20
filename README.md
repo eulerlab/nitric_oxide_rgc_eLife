@@ -1,6 +1,6 @@
 # nitric_oxide_rgc_eLife
 
-This repository contains the data and analysis code underlying the analyses published in [Gonschorek et al. (2024)](https://elifesciences.org/reviewed-preprints/98742v1#article-and-author-information): *"Nitric oxide modulates contrast suppression in a subset of mouse retinal ganglion cells".*
+This repository contains the data and analysis code underlying the analyses published in [Gonschorek et al. (2025)](https://elifesciences.org/articles/98742): *"Nitric oxide modulates contrast suppression in a subset of mouse retinal ganglion cells".*
 
 # Repository structure
 The repository contains the code to reproduce the analyses.
