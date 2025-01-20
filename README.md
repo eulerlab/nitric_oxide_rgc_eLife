@@ -18,7 +18,7 @@ The `code` folder has two sub-folders, for the 2P calcium- and Multi-Electrode A
 
 ## Data
 
-The data can be found on the [G-Node repository](https://gin.g-node.org/eulerlab/nitric_oxide_rgc_eLife)
+The data can be found on the [G-Node repository](https://gin.g-node.org/eulerlab/nitric_oxide_rgc_eLife) under the [DOI](https://doi.gin.g-node.org/10.12751/g-node.mpf63w/).
 
 # Authors and acknowledgements
 See acknowledgments section in Gonschorek et al. (2024).
