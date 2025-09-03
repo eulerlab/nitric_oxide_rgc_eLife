@@ -1,4 +1,4 @@
-# nitric_oxide_rgc_eLife
+# Nitric oxide modulates contrast suppression in a subset of mouse retinal ganglion cells
 
 This repository contains the data and analysis code underlying the analyses published in [Gonschorek et al. (2025)](https://elifesciences.org/articles/98742): *"Nitric oxide modulates contrast suppression in a subset of mouse retinal ganglion cells".*
 
